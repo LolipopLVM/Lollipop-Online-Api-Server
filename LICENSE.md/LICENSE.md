@@ -1,3 +1,4 @@
+# GNU Affero General Public License
 Copyright (C) 2021 Lollipop Online and contributors
 
 This program is free software: you can redistribute it and/or modify
